@@ -3,6 +3,8 @@ package typeCasting;
 public class Demo {
 	public static void main(String[] args) {
 
+		// Winding
+
 		int a = 10;
 		double b = a;
 		System.out.println(a + " " + b);
@@ -13,6 +15,13 @@ public class Demo {
 		float d = c;
 		System.out.println(c + " " + d);
 
+		// NARROWING
+
+		double e = 10.50;
+		int f = (int) e;
+		System.out.println(e + " " + f);
+
+		// Example Of Narrowing
 	}
 }
 /*
