@@ -16,11 +16,11 @@ public class Demo {
 	}
 }
 /*
-what is type casting -  A Process of converting one Data Type To Another Data Type  Is Called Type casting 
-There Are Two Type 1 is permeative And 2 Is nonPrematve 
-1 Permeative --- Permeative have two Type Narrowing And Second is Winding
-Winding  is a process to convert small type to big type like byte short int long float double
-Narrowing  is a process to convert big type to small type is called Narrowing example is
-double float long int short byte
-
-*/
+ * what is type casting - A Process of converting one Data Type To Another Data
+ * Type Is Called Type casting There Are Two Type 1 is permeative And 2 Is
+ * nonPrematve 1 Permeative --- Permeative have two Type Narrowing And Second is
+ * Winding Winding is a process to convert small type to big type like byte
+ * short int long float double Narrowing is a process to convert big type to
+ * small type is called Narrowing example is double float long int short byte
+ * 
+ */
